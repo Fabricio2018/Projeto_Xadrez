@@ -6,6 +6,7 @@ namespace Exer_COA
     {
         static void Main(string[] args)
         {
+            /*Exercício sobre classe, objeto e atributo*/
             Pessoa p1 = new Pessoa();
             Pessoa p2 = new Pessoa();
 
