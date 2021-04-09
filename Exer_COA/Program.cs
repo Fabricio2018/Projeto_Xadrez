@@ -29,7 +29,6 @@ namespace Exer_COA
             {
                 Console.WriteLine("Pessoa mais velha: " + p2.nome);
             }
-
         }
     }
 }
